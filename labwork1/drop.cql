@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS laba1."User";
+
+DROP TABLE IF EXISTS laba1."Housing";
+
+DROP TABLE IF EXISTS laba1."Audience";
+
+DROP TABLE IF EXISTS laba1."Lesson";
+
+DROP TYPE IF EXISTS laba1.user_name_type;
+
+DROP KEYSPACE IF EXISTS laba1;
